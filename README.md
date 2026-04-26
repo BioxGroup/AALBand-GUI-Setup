@@ -7,9 +7,9 @@ Download the User Guide from main branch.
 
 Download the installer from the GitHub Release page:
 
-1. Open the `v0.1.0` release:
-	https://github.com/BioxGroup/AALBand-GUI-Setup/releases/tag/v0.1.0
-2. In **Assets**, download:
+1. Open the releases page:
+	https://github.com/BioxGroup/AALBand-GUI-Setup/releases
+2. In **Assets**, download the latest release:
 	- `BioX AAL-Band GUI Setup.exe`
 
 ## Install (Windows 10/11)
