@@ -2,6 +2,13 @@
 
 Desktop application and User Guide for AAL-Band.
 
+[![Cited in Frontiers in Robotics](https://img.shields.io/badge/Cited-Frontiers%20in%20Robotics-blue)](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.567491/full)
+[![Hardware](https://img.shields.io/badge/Hardware-AAL--Band%202.0-green)](https://www.bioxgroup.dk/webshop/aal-band-2-0-forearm-sensor/)
+
+> **Institutional Access:** Full SDK documentation, zero-lag calibration scripts, and ROS integration examples are available via our research access portal. 
+> 
+> [→ Request SDK access with your institutional email here](https://www.bioxgroup.dk/webshop/aal-band-2-0-forearm-sensor/#sdk-gate)
+
 ## Download
 Download the User Guide from main branch.
 
